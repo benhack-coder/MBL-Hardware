@@ -1,0 +1,23 @@
+button, .button {
+    background-color: #1CC1FF;
+    color: white;
+    border-radius: 200px;
+    height: 10rem;
+    width: 17rem;
+    font-size: 3em;
+    font-family: Uni Sans CAPS Heavy, serif;
+    outline: none;
+    opacity: 1;
+    transition: 0.5s;
+}
+
+button:hover, .button:hover {
+    background-color: white;
+    color: black;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 4%;
+}

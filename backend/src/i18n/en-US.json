@@ -1,0 +1,8 @@
+{
+  "wrong_credentials": "Wrong Login Credentials",
+  "username_taken": "Username already taken",
+  "server_error": "Something went wrong on our servers",
+  "internet_error": "Please connect to the internet",
+  "password_match_error": "Passwords do not match",
+  "short_password": "Password must be minimum 8 characters long"
+}

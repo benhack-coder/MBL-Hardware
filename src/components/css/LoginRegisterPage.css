@@ -1,0 +1,27 @@
+form {
+    margin: 2em;
+}
+
+#form, input, label, .loginField {
+    color: white;
+    font-family: Lemon Milk, sans-serif;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    background-color: black;
+}
+
+.formField {
+    font-size: 2em;
+    font-family: Verdana, sans-serif;
+    color: white;
+}
+
+label {
+    font-size: 2em;
+    text-align: center;
+}
+
+input {
+    margin-bottom: 1em;
+}

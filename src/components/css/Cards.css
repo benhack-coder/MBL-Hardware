@@ -1,0 +1,15 @@
+.test {
+    width: 13%;
+}
+
+#header {
+    text-align: center;
+}
+
+.MuiCard-root {
+    background-color: black;
+}
+
+#cardline {
+    border-color: #0AA6C7;
+}

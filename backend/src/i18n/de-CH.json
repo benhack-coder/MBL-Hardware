@@ -1,0 +1,8 @@
+{
+  "wrong_credentials": "Falsche Benutzer Daten",
+  "username_taken": "Dieser Benutzername wird bereits verwendet",
+  "server_error": "Etwas ist mit dem Server schiefgelaufen",
+  "internet_error": "Bitte verbinde dich mit dem Internet",
+  "password_match_error": "Die Passwörter stimmen nicht überein",
+  "short_password": "Das Passwort ist zu kürz. Es muss min. 8 Zeichen lang sein"
+}

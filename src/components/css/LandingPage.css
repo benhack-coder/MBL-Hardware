@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 60vh;
+    font-family: Lemon Milk, sans-serif;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 20%;
+    font-size: 7em;
+    background-image: url("../../images/background.png");
+}
+
+h1 {
+    color: white;
+    font-family: Lemon Milk, sans-serif;
+}
+
+#background {
+    background-color: black;
+}
+
+.lower-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    font-size: 4em;
+}
+
+#lowest-text {
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+    font-family: Uni Sans CAPS Heavy, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
